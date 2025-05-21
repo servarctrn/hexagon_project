@@ -1,5 +1,6 @@
 # hexagon_project
 The algorithm developed by Dijkstra maintains a priority queue to systematically select the vertex with the smallest known distance from the source and updates the distances of its neighboring vertices accordingly. This process continues until the shortest paths to all vertices are determined.
+
 🧠 Purpose of the Script
 The script implements Dijkstra’s algorithm to calculate the shortest path between two cities based on a CSV dataset. It does the following:
 
